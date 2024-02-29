@@ -1,0 +1,184 @@
+{
+  "tests": [
+    {
+      "name": "task1-1",
+      "setup": "",
+      "run": "python3 task1.py",
+      "input": "7\r\n30",
+      "output": "450",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "task1-2",
+      "setup": "",
+      "run": "python3 task1.py",
+      "input": "0\r\n42",
+      "output": "42",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "task2-1",
+      "setup": "",
+      "run": "python3 task2.py",
+      "input": "480",
+      "output": "8\r\n0",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "task2-2",
+      "setup": "",
+      "run": "python3 task2.py",
+      "input": "512",
+      "output": "8\r\n32",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "task3-1",
+      "setup": "",
+      "run": "python3 task3.py",
+      "input": "480\r\n1\r\n2",
+      "output": "9\r\n2",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "task3-2",
+      "setup": "",
+      "run": "python3 task3.py",
+      "input": "475\r\n1\r\n55",
+      "output": "9\r\n50",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "task4-1",
+      "setup": "",
+      "run": "python3 task4.py",
+      "input": "1.1",
+      "output": "3.8013271108436504",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "task4-2",
+      "setup": "",
+      "run": "python3 task4.py",
+      "input": "1",
+      "output": "3.14",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "task5-1",
+      "setup": "",
+      "run": "python3 task5.py",
+      "input": "5",
+      "output": "615",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "task5-2",
+      "setup": "",
+      "run": "python3 task5.py",
+      "input": "10",
+      "output": "102030",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "task6",
+      "setup": "",
+      "run": "python3 task6.py",
+      "input": "",
+      "output": "Name**Is**James",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "task7-1",
+      "setup": "",
+      "run": "python3 task7.py",
+      "input": "10",
+      "output": "10 0b1010 0o12 0xa",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "task7-2",
+      "setup": "",
+      "run": "python3 task7.py",
+      "input": "12345",
+      "output": "12345 0b11000000111001 0o30071 0x3039",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "task8-1",
+      "setup": "",
+      "run": "python3 task8.py",
+      "input": "Вася\r\nПетя\r\nТоля",
+      "output": "Толя\r\nПетя\r\nВася",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "task8-2",
+      "setup": "",
+      "run": "python3 task8.py",
+      "input": "Толя\r\nПетя\r\nВася",
+      "output": "Вася\r\nПетя\r\nТоля",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "task9-1",
+      "setup": "",
+      "run": "python3 task9.py",
+      "input": "1 1 1",
+      "output": "0.4330127018922193",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "task9-2",
+      "setup": "",
+      "run": "python3 task9.py",
+      "input": "1 2 3",
+      "output": "0",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "task9-3",
+      "setup": "",
+      "run": "python3 task9.py",
+      "input": "7 4 6",
+      "output": "11.976539567003485",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    }
+  ]
+}
