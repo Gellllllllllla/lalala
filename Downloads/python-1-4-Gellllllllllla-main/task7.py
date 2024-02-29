@@ -13,3 +13,5 @@ n = int(input())
 x = [n, bin(n), oct(n), hex(n)]
 
 print(" ".join(map(str, x)))
+
+# 123
