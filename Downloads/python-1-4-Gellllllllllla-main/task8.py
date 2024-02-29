@@ -16,4 +16,4 @@ text = ''
 for i in range(3):
     text += input() + ' '
 x = text.split()
-print("\n".join(x[::-1]))с
+print("\n".join(x[::-1]))
